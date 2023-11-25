@@ -1,0 +1,32 @@
+[
+    {
+        "title": "Online Electoral System (Programming Fundamentals)",
+        "description": "A project designed in C/C++ providing users the facility of voting sitting at their homes and voting at their own ease.\nIt provides with two Interfaces, a Voter who can login,sign-up or cast its vote and an Admin who can view and manage all the data of the User’s as well as the candidates of the Election.",
+        "technology": "C "
+    },
+    {
+        "title": "Online Elecctoral System (OOP )",
+        "description": "A project designed in C/C++ providing users the facility of voting sitting at their homes and voting at their own ease.\nIt provides with two Interfaces, a Voter who can login,sign-up or cast its vote and an Admin who can view and manage all the data of the User’s as well as the candidates of the Election.",
+        "technology": "C , C++"
+    },
+    {
+        "title": "Data Structure on Pwned Password Dataset",
+        "description": "Used Multithreading Sha-1 encryption AVL tree searching to show the pwned passwords and the number of times each of them had been detected.",
+        "technology": "Data Parsing , Python"
+    },
+    {
+        "title": "Electronic Dictionary",
+        "description": "Searching for the meaning of word entered by the User Designed in Assembly Language",
+        "technology": "Assembly Language, Visual Studio"
+    },
+    {
+        "title": "Sorting Algorithms visualizer",
+        "description": "An Interface that is designed using Python to visualise various sorting algorithms for a better understanding of how each sorting algorithm operates.Designed the visualization of 10 different algorithms including Insertion sort,",
+        "technology": "Python, SciKit"
+    },
+    {
+        "title": "Inventory Management System",
+        "description": "Assigns an Inventory to Retailer requesting it and helps him managing his inventory by providing options such as Adding Product, Delete Product , Update Product and Several Validations checks for Data Entry",
+        "technology": "PERN stack, React ,NodeJs  "
+    }
+]
